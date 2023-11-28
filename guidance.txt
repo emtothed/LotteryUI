@@ -1,2 +1,5 @@
 yarn create next-app .
-yarn run dev
+yarn run dev 
+yarn add web3uikit
+
+read abi and contract address --> 17:28
